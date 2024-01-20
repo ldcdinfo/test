@@ -1,2 +1,3 @@
 # test
-to tesdt using gpt assisting me
+to test using gpt assisting me
+1st test line
